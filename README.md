@@ -4,7 +4,7 @@
 To develop a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).
 
 ## Entity Relationship Diagram
-![ENTITY](./image/entity.png)
+![WhatsApp Image 2022-12-17 at 18 45 49](https://user-images.githubusercontent.com/118622554/208243804-d4bb13a7-d6bd-458f-b553-d8884a109989.jpg)
 
 ## DESIGN STEPS
 
@@ -49,8 +49,8 @@ admin.site.register(BankAccountMember,BankAccountAdmin)
 
 
 ## OUTPUT
+![WhatsApp Image 2022-12-17 at 18 46 33](https://user-images.githubusercontent.com/118622554/208243839-d17b781e-a644-4cbd-8d57-45b0c4c8d5bd.jpg)
 
-![OUTPUT](./images/bankaccount.png)
 
 ## RESULT
 Successfully developed a Django application to store and retrieve data from a database using Object
