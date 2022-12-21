@@ -4,7 +4,7 @@
 To develop a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).
 
 ## Entity Relationship Diagram
-![WhatsApp Image 2022-12-17 at 18 45 49](https://user-images.githubusercontent.com/118622554/208243804-d4bb13a7-d6bd-458f-b553-d8884a109989.jpg)
+![OUTPUT](./WhatsApp%20Image%202022-12-21%20at%209.23.00%20PM.jpeg)
 
 ## DESIGN STEPS
 
@@ -26,7 +26,7 @@ manage.py runserver 0:80" command.
 
 ## PROGRAM
 #IN models.py:-
-
+```
 from django.db import models
 from django.contrib import admin
 #Create your model here.
@@ -47,9 +47,9 @@ from .models import BankAccountMember,BankAccountAdmin
 
 admin.site.register(BankAccountMember,BankAccountAdmin)
 
-
+```
 ## OUTPUT
-![WhatsApp Image 2022-12-17 at 18 46 33](https://user-images.githubusercontent.com/118622554/208243839-d17b781e-a644-4cbd-8d57-45b0c4c8d5bd.jpg)
+![OUPUT](./ORM.jpeg)
 
 
 ## RESULT
